@@ -1,2 +1,2 @@
-# Mstore
+# store
 Web toko online
